@@ -1,0 +1,10 @@
+# PDF / book files
+*.pdf
+*.docx
+
+# Rust
+rlox/target/
+
+# OS
+.DS_Store
+Thumbs.db
